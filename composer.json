@@ -1,0 +1,21 @@
+{
+  "name": "rakshsitbhat/phpapi",
+  "description": "PHP Api Starterpack",
+  "type": "project",
+  "license": "Proprietary",
+  "autoload": {
+    "classmap": [
+      "packages"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Rakshit Bhat",
+      "email": "rrrssb1@gmail.com"
+    }
+  ],
+  "require": {
+    "ircmaxell/password-compat": "*",
+    "phpmailer/phpmailer": "^6.0"
+  }
+}
